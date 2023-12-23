@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hungtyU/static/css/main.a5f62246.css",
+    "main.js": "/hungtyU/static/js/main.fb2554be.js",
+    "static/media/img3.jpeg": "/hungtyU/static/media/img3.b669832af3e541a9b38d.jpeg",
+    "static/media/img1.jpeg": "/hungtyU/static/media/img1.6835fe18c03781a36059.jpeg",
+    "static/media/img8.jpeg": "/hungtyU/static/media/img8.16335fef4dad27d46f41.jpeg",
+    "static/media/img2.jpeg": "/hungtyU/static/media/img2.ea8833c2adc884f1ba64.jpeg",
+    "static/media/img6.jpeg": "/hungtyU/static/media/img6.6e390920ca1eca9effbc.jpeg",
+    "static/media/img4.jpeg": "/hungtyU/static/media/img4.c3cd4bccf38a312194e1.jpeg",
+    "static/media/imageC.jpeg": "/hungtyU/static/media/imageC.69c46896fc6f5d0348b8.jpeg",
+    "static/media/imageD.jpeg": "/hungtyU/static/media/imageD.4f653c0b379c1500fd20.jpeg",
+    "static/media/imageB.jpeg": "/hungtyU/static/media/imageB.29369559e607c9866325.jpeg",
+    "static/media/img5.jpeg": "/hungtyU/static/media/img5.fac51418cdc97a8295ab.jpeg",
+    "static/media/img7.jpeg": "/hungtyU/static/media/img7.e2790b1e0a9746af4400.jpeg",
+    "static/media/imageA.jpeg": "/hungtyU/static/media/imageA.4ef7950202e119cf5449.jpeg",
+    "index.html": "/hungtyU/index.html",
+    "main.a5f62246.css.map": "/hungtyU/static/css/main.a5f62246.css.map",
+    "main.fb2554be.js.map": "/hungtyU/static/js/main.fb2554be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f62246.css",
+    "static/js/main.fb2554be.js"
+  ]
+}
